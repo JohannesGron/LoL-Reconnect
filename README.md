@@ -1,6 +1,6 @@
 ## LoL Reconnect - Reconnect Faster Than Ever Before! :zap:
 
-Download it here - [LoL Reconnect](https://pages.github.com/)
+Download it here - [LoL Reconnect](https://github.com/TheDangerBoy/LoL-Reconnect/raw/master/LoL_Reconnect/LoL_Reconnect/bin/Debug/LoL%20Reconnect.exe)
 
 ####Features:
  - Reconnect instantly without login in to the LolClient
