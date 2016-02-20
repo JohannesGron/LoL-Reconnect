@@ -1,4 +1,4 @@
-## LoL Reconnect - Reconnect Faster Than Ever Before!
+## LoL Reconnect - Reconnect Faster Than Ever Before! :v:
 
 Download it here - [LoL Reconnect](https://pages.github.com/)
 
