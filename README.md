@@ -19,9 +19,9 @@ Go check the source code! If you not into computing check these virusscans:
 - [Jotti](https://virusscan.jotti.org/en-US/filescanjob/94cgiqz70j)
 
 
-####Thanks to ...?
-Thanks to the guys behind LegendaryClient 
+####Thanks to ...
+Thanks to the guys behind LegendaryClient for providing information about how to reconnect! Also thanks to the guys at MahApps for creating such an awesome interface to WPF applications.
 
 
-####Please Note
+####Legal things
 LoL Reconnect isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
