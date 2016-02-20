@@ -1,0 +1,15 @@
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\bin\Debug\LoL_Reconnect.exe.config
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\bin\Debug\LoL_Reconnect.exe
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\bin\Debug\LoL_Reconnect.pdb
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect.csprojResolveAssemblyReference.cache
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\MainWindow.g.cs
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\App.g.cs
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect_MarkupCompile.cache
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect_MarkupCompile.lref
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\App.baml
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\MainWindow.baml
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect.g.resources
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect.Properties.Resources.resources
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect.csproj.GenerateResource.Cache
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect.exe
+C:\Users\Johannes\Dropbox\LoL RTMP\New Version\LoL_Reconnect\LoL_Reconnect\obj\Debug\LoL_Reconnect.pdb
