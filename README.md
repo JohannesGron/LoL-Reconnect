@@ -1,2 +1,2 @@
-# LoL-Reconnect
-Reconnect Faster Than Ever Before!
+# LoL-Reconnect - Reconnect Faster Than Ever Before!
+
