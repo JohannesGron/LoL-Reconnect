@@ -13,6 +13,13 @@ Download it here - [LoL Reconnect](https://github.com/TheDangerBoy/LoL-Reconnect
 
 ![alt tag](http://i.imgur.com/kDeiPkQ.png)
 
+####How to use?
+1. Load the application
+2. Enter your credientials + region + lol path (first time)
+3. Press reconnect
+4. Play!
+
+
 ####Virus?
 Go check the source code! If you not into computing check these virus scans:
 - [Virustotal](https://www.virustotal.com/da/file/e07c32e802a6652190af3fa8526f20a2b9fa1ca2376f94594b8c03fd7c6e9ca7/analysis/1455980579/)
